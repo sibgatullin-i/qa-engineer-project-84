@@ -1,0 +1,9 @@
+name: Random name
+job: QA Engineer
+email: thanks@but.no
+description: |
+  just some multiline
+  text ffo you pleasure
+skills:
+  - skill \#1
+  - skill \#2
