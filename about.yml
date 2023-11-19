@@ -1,9 +1,13 @@
-name: Random name
+---
+name: Ilya Sibgatullin # ваше имя
 job: QA Engineer
-email: thanks@but.no
+level: junior
+email: removed from public access
 description: |
-  just some multiline
-  text ffo you pleasure
-skills:
-  - skill \#1
-  - skill \#2
+  Решился, наконец, попробовать себя в IT )))
+  Основное образование ПГС Инженер-сметчик, Инженер ПТО
+skills: # список навыков в виде списка, напишите что-то свое
+  - функциональное ручное тестирование
+  - написание багрепортов
+  - слепая печать
+  - английский язык B1
